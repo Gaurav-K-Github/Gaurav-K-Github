@@ -1,5 +1,5 @@
 <h1 align="center">Hello there! 👋, I'm Gaurav</h1>
-<h3 align="center">Future CSE engineer from India.</h3>
+<h3 align="center">Future CS Engineer from India.</h3>
 
 <img align="right" alt="Coding" width="350" src="https://github.com/Gaurav-K-Github/Gaurav-K-Github/blob/main/github-octocat-logo-svg-vector.svg">
 
