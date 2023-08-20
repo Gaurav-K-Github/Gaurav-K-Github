@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! 👋, I'm Gaurav</h1>
 <h3 align="center">Future CSE engineer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="Coding" width="350" src="https://github.com/Gaurav-K-Github/Gaurav-K-Github/blob/main/249678823-2248e6be-a955-422d-83ab-4b75da904c35.gif">
 
 - ⚛️ Currently learning: **JS**
 
