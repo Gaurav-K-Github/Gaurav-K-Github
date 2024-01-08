@@ -3,21 +3,21 @@
 
 <img align="right" alt="Coding" width="350" src="https://github.com/Gaurav-K-Github/Gaurav-K-Github/blob/main/github-octocat-logo-svg-vector.svg">
 
-- ⚛️ Currently learning: **JS**
+- ⚛️ Currently learning: *C*
 
-- 👨‍💻 All of my projects are available at: **Github exclusively**
+- 👨‍💻 Get all my codes and projects: *Github exclusively*
 
-- 💬 Ask me about: **Python,SQL and Turtle**
+- 💬 Ask me about: *Python,SQL,Turtle or C*
 
-- 📫 Reach me: **@kashvns705@gmail.com**
+- 📫 Reach me: *@kashvns705@gmail.com*
 
-- ✨ Fun fact: **"My love of Coffee with codes and poems are of no match!"**
+- ✨ Fun fact: *"My love of Coffee with codes and poems are of no match!"*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/gaurav_kumar_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gaurav_kumar_pandey" height="30" width="40" /></a>
 <a href="https://codesandbox.com/gaurav-k-github" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="gaurav-k-github" height="30" width="40" /></a>
-<a href="https://instagram.com/_gaurav.k.pandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gaurav.k.pandey_" height="30" width="40" /></a>
+<a href="https://instagram.com/_gaurav.k.pandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav.k.pandey" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gaurav_k_pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gaurav_k_pandey" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/cxHHFAUH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cxHHFAUH" height="30" width="40" /></a>
 </p>
