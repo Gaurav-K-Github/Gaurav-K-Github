@@ -38,3 +38,11 @@
 -----------
 [![](https://visitcount.itsvg.in/api?id=Gaurav-K-Github&icon=5&color=3)](https://visitcount.itsvg.in)
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Gaurav-K-Github/Gaurav-K-Github/output/snake.svg" alt="Snake animation" />
+
+###
