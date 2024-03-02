@@ -37,4 +37,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-K-Github&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 -----------
+
 [![](https://visitcount.itsvg.in/api?id=Gaurav-K-Github&icon=5&color=3)](https://visitcount.itsvg.in)
+
+
+
+![snake gif](https://github.com/Gaurav-K-Github/Gaurav-K-Github/blob/output/github-contribution-grid-snake.gif)
