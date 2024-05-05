@@ -42,5 +42,3 @@
 
 -----------
 
-
-![snake gif](https://github.com/Gaurav-K-Github/Gaurav-K-Github/blob/output/github-contribution-grid-snake.gif)
