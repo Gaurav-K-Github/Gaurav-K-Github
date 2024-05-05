@@ -2,7 +2,6 @@
 <h3 align="center"><u>Explore my projects and coding journey here!</u></h3><br>
 
 <img align="right" alt="Coding" width="350" src="https://github.com/Gaurav-K-Github/Gaurav-K-Github/blob/main/github-octocat-logo-svg-vector.svg">
-
 - ⚛️ Currently learning: *DSA with Python*
 
 - 👨‍💻 Get all my codes and projects: *Github exclusively*
