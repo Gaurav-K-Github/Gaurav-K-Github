@@ -12,7 +12,9 @@
 - 📫 Reach me: *@kashvns705@gmail.com*
 
 - ✨ Fun fact: *"My love of Coffee with codes and poems are of no match!"*
+  
 --------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/gaurav-kumar-a9a47b2b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/gaurav-kumar-a9a47b2b7" height="30" width="40" /></a>
