@@ -17,7 +17,8 @@
 ~ [Python Project - Youtube Video Downloader](https://github.com/Gaurav-K-Github/Python/blob/main/Projects/YT%20video%20downloader.py)<br>
 ~ [Python Project - Timer Clock](https://github.com/Gaurav-K-Github/Python/blob/main/Projects/Countdown%20timer.py)<br>
 ~ [Python Turtle Projects](https://github.com/Gaurav-K-Github/Python/tree/main/Python-turtle-main)<br>
-~ Stay tuned for more....
+~ [Other Projects](https://github.com/Gaurav-K-Github/minor-projects.git)<br>
+  !  Stay tuned for more....
 
 ---------
 <summary><h3 align="left"><u>🔧 Tech Stack:</u></h3></summary>
